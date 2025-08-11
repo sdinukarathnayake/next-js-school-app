@@ -1,1 +1,1 @@
-# next-js-school-app
+# School App using Next Js
