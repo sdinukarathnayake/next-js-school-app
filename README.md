@@ -1,1 +1,1 @@
-# School App using Next Js
+# School App - Next Js Frontend
